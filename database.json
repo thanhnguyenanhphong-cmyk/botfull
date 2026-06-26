@@ -1,0 +1,17 @@
+{
+    "users": {
+        "7338417401": {
+            "username": "phong296",
+            "balance": 1020000,
+            "key_expiry": "2026-06-27T22:19:23.777694"
+        },
+        "7833803456": {
+            "username": "vilongmd5onlai",
+            "balance": 0,
+            "key_expiry": null
+        }
+    },
+    "keys": {},
+    "giftcodes": {},
+    "pending_deposits": {}
+}
