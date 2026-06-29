@@ -10,7 +10,7 @@ import string
 from datetime import datetime, timedelta
 from flask import Flask
 
-TOKEN = '8978234983:AAHOIpJv0B3uZb9C_vMAw6o0G_INlwOR9bY'
+TOKEN = '8978234983:AAEGEPZEv-XmN7RQT2PXgzwPTTg6_PaZrwQ'
 ADMIN_ID = 7338417401
 ADMIN_CONTACT = '@anhphong296'
 
